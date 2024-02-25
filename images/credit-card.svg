@@ -1,3 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none">
-<rect y="27.5" width="200" height="145" rx="11" fill="#F0C41B"/>
+<svg xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 200 200"
+width="200" height="200" 
+fill="none">
+
+<!--Card-->
+<rect 
+y="27.5" 
+width="200" height="145" 
+rx="11" 
+fill="#F0C41B"/>
+
+<!--Bar-->
+<rect 
+y="45" 
+width="200" height="27" 
+fill="#806F5E"/>
+
+<!--MasterC. Icon-->
+<circle 
+cx="138" cy="134.5" 
+r="21" 
+fill="#DB2215"/>
+<circle 
+cx="162" cy="134.5" 
+r="21" 
+fill="#245EA9"/>
+
+<!--Text Vector first row-->
+<rect 
+x="17" y="89.5" 
+width="38" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+<rect 
+x="62" y="89.5" 
+width="38" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+
+<!--Text Vector second row-->
+<rect 
+x="17" y="107" 
+width="11" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+<rect 
+x="34.5" y="107" 
+width="14" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+<rect 
+x="55" y="107" 
+width="11" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+<rect 
+x="72.5" y="107" 
+width="14" height="7" 
+rx="3.5" 
+fill="#F9EAB0"/>
+<circle 
+cx="96.5" cy="110.5" 
+r="3.5" 
+fill="#F9EAB0"/>
 </svg>
